@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Sumit Kumar",
+  "author": "Sumit Kumar chauhan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
